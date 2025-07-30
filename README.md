@@ -1,1 +1,4 @@
 # Secure-Hearttech
+Secure Sparkle is an innovative wearable health-tech device designed as a fashionable chain embedded with a heart rate monitoring sensor. This smart accessory continuously tracks the wearer's heartbeat and transmits real-time data to a connected mobile application via Bluetooth Low Energy (BLE). In the event of abnormal heart rate variations—such as sudden spikes or dangerous drops—the system automatically sends an alert notification to a pre-selected emergency contact, enabling quick response and ensuring user safety.
+
+Originally aimed at general health-conscious users, this project has been enhanced with a special focus on pregnant women, adapting the sensor placement and sensitivity to monitor fetal heartbeats through a wearable belt design. This version helps mothers track the child’s heartbeat and detect early signs of distress, promoting prenatal care and reducing risks during pregnancy.
